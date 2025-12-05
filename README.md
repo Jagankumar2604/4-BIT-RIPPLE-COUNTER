@@ -24,7 +24,19 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 
 **Procedure**
 
-/* write all the steps invloved */
+1.Open Quartus and create a new Verilog file.
+
+
+2.Copy and paste the corrected code and save the file.
+
+
+3.Compile the program to check for errors.
+
+
+4.Generate the RTL schematic and timing diagram.
+
+
+5,Simulate the design to verify the serial shift operation.
 
 **PROGRAM**
 
